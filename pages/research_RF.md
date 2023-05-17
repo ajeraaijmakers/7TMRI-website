@@ -32,7 +32,7 @@ The RF and safety group has an extensive track record in RF coil array design fo
 {% include page-image im_id="im_101" %}
 
 In addition to the RF safety of custom built coil arrays, the RF and safety group has also explored the area of implant safety. Novel approaches for implant safety assessment have been presented and successfully applied on selected products of interested companies.
-sfdsf
+
 More recently, the RF and safety group is focusing at MR Thermometry for RF safety assessment in general and coil array development for the upcoming 14T MRI system.
 
 {% include page-image im_id="im_102" %}
